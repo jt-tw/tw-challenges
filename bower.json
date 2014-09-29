@@ -1,0 +1,20 @@
+{
+  "name": "tw-challenges",
+  "version": "1.0",
+  "authors": [
+    "Sikhapol Saijit <sikhapol@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+	  "bootstrap": "*",
+    "ionicons": "*",
+    "font-awesome": "*"
+  }
+}
