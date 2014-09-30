@@ -1,0 +1,22 @@
+{
+  "name": "Challenge01_Ambas",
+  "version": "0.0.0",
+  "homepage": "https://github.com/taskworld/tw-challenges",
+  "authors": [
+    "ambas <ambas.c@taskworld.com>"
+  ],
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-css": "~3.2.0"
+  }
+}
